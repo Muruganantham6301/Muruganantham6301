@@ -1,146 +1,249 @@
-# 👋 Hey, I'm Muruganantham M
-
 <div align="center">
 
-### 🚀 AWS DevOps Engineer | Cloud Infrastructure Enthusiast | Automation Advocate
+# ☁️ MURUGANANTHAM M
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Reliable+Cloud+Infrastructure;Automating+Everything+Possible;Terraform+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Engineer+%7C+DevOps+Practitioner" />
+### AWS DevOps Engineer | Cloud Infrastructure Engineer | Automation Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AWS+DevOps+Engineer;Infrastructure+as+Code+Specialist;CI%2FCD+Pipeline+Builder;Terraform+%7C+Docker+%7C+Kubernetes;Automating+Cloud+Operations" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
 ---
 
-## ☁️ About Me
+# 🚀 About Me
 
 ```yaml
-Name: Muruganantham M
-Role: AWS DevOps Engineer
-Location: Chennai, Tamil Nadu, India
-Experience: 1.5+ Years
-Focus:
-  - Cloud Infrastructure
+name: Muruganantham M
+role: AWS DevOps Engineer
+location: Chennai, Tamil Nadu, India
+
+experience: 1.5+ Years
+
+specialization:
+  - AWS Cloud Infrastructure
   - CI/CD Automation
   - Infrastructure as Code
-  - Containerization
+  - Docker & Kubernetes
+  - Linux Administration
   - Monitoring & Observability
+
+motto:
+  "Automate Everything. Scale Reliably."
 ```
 
-💡 Passionate about designing scalable cloud architectures, automating deployments, and improving infrastructure reliability.
+---
 
-🔧 Experienced in building production-ready AWS environments with Infrastructure as Code and CI/CD best practices.
+# ☁️ Cloud Architecture Mindset
 
-📈 Focused on reducing manual effort through automation and improving deployment efficiency.
+```text
+                ┌─────────────────────┐
+                │     GitHub Repo     │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     CodePipeline    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     CodeBuild       │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     CodeDeploy      │
+                └──────────┬──────────┘
+                           │
+                           ▼
+         ┌──────────────────────────────────┐
+         │        AWS Infrastructure        │
+         │  EC2 • VPC • ALB • IAM • RDS     │
+         └──────────────────────────────────┘
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+# ⚡ Tech Stack
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🚀 DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform" />
+</p>
+
+### 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+</p>
+
+### 💻 Programming & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,git" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+---
+
+# 🎯 What I Do
 
 ### Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+✅ Terraform
 
-### CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+✅ AWS Resource Provisioning
 
-### Monitoring & Logging
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Operating Systems & Virtualization
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+✅ Environment Automation
 
 ---
 
-## 🚀 Featured Projects
+### CI/CD Engineering
 
-### 🔹 AWS CI/CD Pipeline with CodePipeline & CodeDeploy
-- Automated application deployment workflow
-- Reduced deployment time by 30%
-- Implemented approval gates and rollback strategies
+✅ AWS CodePipeline
 
-### 🔹 Multi-Environment AWS Infrastructure using Terraform
-- Provisioned production-grade VPC architecture
-- Public/Private Subnets
-- NAT Gateway & Route Tables
-- Security Groups and IAM Policies
+✅ AWS CodeBuild
 
-### 🔹 Dockerized Web Application Deployment
-- Containerized applications using Docker
-- Automated build and deployment process
-- Implemented Git-based version control workflows
+✅ AWS CodeDeploy
 
-### 🔹 AWS Monitoring & Alerting Framework
+✅ GitHub Integration
+
+---
+
+### Containerization
+
+✅ Docker
+
+✅ Kubernetes Fundamentals
+
+✅ Container Deployment
+
+---
+
+### Monitoring
+
+✅ AWS CloudWatch
+
+✅ CloudTrail
+
+✅ SNS Alerting
+
+✅ Log Analysis
+
+---
+
+# 🏆 Highlight Projects
+
+## 🚀 AWS CI/CD Pipeline Automation
+
+- Automated application deployment using AWS CodePipeline
+- Reduced deployment effort by 30%
+- Implemented rollback strategies and approval gates
+
+---
+
+## 🌐 Production VPC using Terraform
+
+- Multi-tier VPC Architecture
+- Public & Private Subnets
+- NAT Gateway
+- Security Groups
+- Route Tables
+
+---
+
+## 🐳 Dockerized Web Application
+
+- End-to-End Containerization
+- Git-Based Workflow
+- Automated Deployment Pipeline
+
+---
+
+## 📊 Monitoring & Alerting Platform
+
 - CloudWatch Dashboards
 - SNS Notifications
 - CloudTrail Auditing
-- Infrastructure Health Monitoring
+- Infrastructure Visibility
 
 ---
 
-## 📊 DevOps Mindset
+# 📚 Currently Learning
 
 ```text
-Plan → Code → Build → Test → Release → Deploy → Operate → Monitor → Improve
+🔹 Kubernetes Administration
+🔹 AWS EKS
+🔹 GitOps
+🔹 Ansible
+🔹 Helm
+🔹 DevSecOps
 ```
 
 ---
 
-## 🎯 Current Learning
+# 📈 GitHub Analytics
 
-- Kubernetes Administration
-- Advanced Terraform Modules
-- AWS EKS
-- GitOps Practices
-- Ansible Automation
-- DevSecOps
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-## 🏆 Certifications
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
-✔ AWS Certified Solutions Architect – Associate (In Progress)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+# ⚙️ DevOps Activity Graph
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌎 Connect With Me
 
-📧 Email: ananth.6301@gmail.com
+### 📧 Email
 
-💼 LinkedIn: www.linkedin.com/in/muruganantham
+ananth.6301@gmail.com
 
-📍 Chennai, Tamil Nadu, India
+### 💼 LinkedIn
+
+https://linkedin.com/in/muruganantham
+
+### 📍 Location
+
+Chennai, Tamil Nadu, India
 
 ---
 
 <div align="center">
 
-### ⚡ "Automate the repetitive, optimize the essential, scale the reliable."
+## ⚡ DevOps Philosophy
+
+> "Infrastructure should be reproducible, deployments should be automated, and monitoring should be proactive."
+
+### 🚀 Build → Automate → Deploy → Monitor → Improve
 
 </div>
